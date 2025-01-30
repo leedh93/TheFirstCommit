@@ -1,2 +1,2 @@
-email : leedhun93@gmail.com
-gitID : leedh
+email : 
+gitID : 
